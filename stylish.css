@@ -35,12 +35,6 @@ hr {
     padding-right: 2rem;
 }
 
-/* .New{
-    max-width: 600px;
-    margin: auto;
-} */
-
-/** Links **/
 .link {
     box-sizing: border-box;
     text-decoration: none;
@@ -84,7 +78,7 @@ text-align: right;
 
 /***navigation***/
 .navigation{
-    background-color: #f9a826;
+    background-color: #ff0000;
     color: aliceblue;
     padding: 1rem ;
     border-bottom-left-radius: 1rem;
